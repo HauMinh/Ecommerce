@@ -19,14 +19,7 @@ function Login() {
 
     const onHandleSubmitLogin = (data) =>{
         console.log("form data login",data);
-        // if(user.email===data.email && user.password===data.password){
-        //   alert("thực hiện chuyển trang")
-        //   render(
-        //     <Admin/>
-        //   )
-        // }else{
-        //   alert("Login fail")
-        // }
+        //
       
     }
 
